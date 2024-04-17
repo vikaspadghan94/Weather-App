@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+ body{
+  background-image: url('https://images.pexels.com/photos/221125/pexels-photo-221125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-size: cover;
+  
+
+ }
